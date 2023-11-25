@@ -132,7 +132,7 @@ hr {
 .section-title h2::after {
 	position: absolute;
 	content: "";
-	background-color: #e52f3c;
+	background-color: #1E7A46;
 	height: 3px;
 	width: 50px;
 	bottom: -1px;
